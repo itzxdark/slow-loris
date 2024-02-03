@@ -1,2 +1,0 @@
-# slow-loris
-slow loris 
